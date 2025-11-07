@@ -2,7 +2,9 @@
 *.pcap
 *.pcapng
 
-__pycache__/
+
+__pycache__
 .conda/
 .env
-.vscode/
+.vscode
+*.pyc
