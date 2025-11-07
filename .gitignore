@@ -1,0 +1,3 @@
+# Ignorar capturas de red
+*.pcap
+*.pcapng
