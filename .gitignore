@@ -1,3 +1,8 @@
 # Ignorar capturas de red
 *.pcap
 *.pcapng
+
+__pycache__/
+.conda/
+.env
+.vscode/
