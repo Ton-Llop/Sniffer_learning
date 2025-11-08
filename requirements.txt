@@ -1,2 +1,7 @@
 scapy
 pyshark
+dotenv
+os
+socket
+datetime
+binascii
